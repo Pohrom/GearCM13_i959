@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/i9500/proprietary/lib/lib_SoundBooster_ver402.so:system/lib/lib_SoundBooster_ver402.so \
 	vendor/samsung/i9500/proprietary/lib/libmysound.so:system/lib/libmysound.so \
 	vendor/samsung/i9500/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
+	vendor/samsung/i9500/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
 	vendor/samsung/i9500/proprietary/lib/lib_SoundAlive_play_ver125e.so:system/lib/lib_SoundAlive_play_ver125e.so \
 	vendor/samsung/i9500/proprietary/lib/liblvverx_3.20.03.so:system/vendor/lib/liblvverx_3.20.03.so \
 	vendor/samsung/i9500/proprietary/lib/liblvvetx_3.20.03.so:system/vendor/lib/liblvvetx_3.20.03.so \
